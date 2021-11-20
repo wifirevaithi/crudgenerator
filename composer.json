@@ -9,7 +9,6 @@
             "email": "dev@intrithm.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "laravelcollective/html": "6.x-dev"
     },
